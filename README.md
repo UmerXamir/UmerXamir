@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UmerXamir
+- 👋 Hi, I’m Umer Amir
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Flutter (App development)
 - 💞️ I’m looking to collaborate on Progamming projects on languages like (Java, C++, Dart)
