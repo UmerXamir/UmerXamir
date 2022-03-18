@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umer Amir, undergradute doing Bachelors in Computer Science.
-- 👀 I’m interested in learning programming
+- 👀 I can code in Python,Java,C++,Dart and also knows database like SQL.
 - 🌱 I’m currently learning Flutter (App development)
 - 💞️ I’m looking to collaborate on Progamming projects on languages like (Java, C++, Dart)
 - 📫 How to reach me ezumerr@gmail.com
